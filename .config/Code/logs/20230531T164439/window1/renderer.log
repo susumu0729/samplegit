@@ -1,0 +1,23 @@
+2023-05-31 16:44:40.895 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-31 16:44:41.834 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:41.834 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-05-31 16:44:43.925 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:46.280 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:49.153 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:49.153 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-05-31 16:44:49.796 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:52.154 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:52.379 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:53.918 [error] [Extension Host] (node:2819) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-05-31 16:44:54.082 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:54.351 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:55.732 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:55.969 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:56.334 [info] [perf] Render performance baseline is 166ms
+2023-05-31 16:44:56.736 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 16:44:56.973 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-31 17:28:04.462 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-31 17:28:09.310 [error] [Extension Host] (node:3564) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-05-31 17:28:10.623 [info] [perf] Render performance baseline is 240ms

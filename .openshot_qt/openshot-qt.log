@@ -1,0 +1,371 @@
+         app:INFO ------------------------------------------------
+         app:INFO             Sat May 13 21:42:19 2023            
+         app:INFO               Starting new session              
+         app:INFO ------------------------------------------------
+         app:INFO             OpenShot (version 2.5.1)            
+         app:INFO ------------------------------------------------
+         app:INFO openshot-qt version: 2.5.1
+         app:INFO libopenshot version: 0.2.5
+         app:INFO platform: Linux-5.15.95-16520-g682786dc5340-x86_64-with-glibc2.31
+         app:INFO processor: 
+         app:INFO machine: x86_64
+         app:INFO python version: 3.9.2
+         app:INFO qt5 version: 5.15.2
+         app:INFO pyqt5 version: 5.15.2
+     metrics:ERROR Error determining OS version in metrics.py
+    language:INFO Qt Detected Languages: ['en-US']
+    language:INFO LANG Environment Variable: en_US.UTF-8
+    language:INFO LOCALE Environment Variable: 
+    language:INFO OpenShot Preference Language: Default
+project_data:INFO Setting default profile to HD 720p 30 fps
+         app:INFO Setting font to Cantarell
+logger_libopenshot:INFO Connecting to libopenshot with debug port: 5556
+         app:INFO Setting custom dark theme
+     ui_util:INFO Initializing UI for MainWindow
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+ files_model:INFO updating files model.
+transition_model:INFO updating transitions model.
+effects_model:INFO updating effects model.
+properties_model:INFO updating clip properties model.
+transition_model:INFO updating transitions model.
+ files_model:INFO updating files model.
+ main_window:INFO InitCacheSettings
+ main_window:INFO cache-mode: CacheMemory
+ main_window:INFO cache-limit-mb: 250
+ main_window:INFO Creating CacheMemory object with 262144000 byte limit
+preview_thread:INFO QThread Start Method Invoked
+ main_window:INFO Clear all thumbnails: /home/chachahime0729/.openshot_qt/thumbnail
+preview_thread:INFO initPlayer
+ main_window:INFO Clear all animations: /home/chachahime0729/.openshot_qt/blender
+ main_window:INFO Clear all titles: /home/chachahime0729/.openshot_qt/title
+     version:INFO Found current version: {"trans_rate_stable": 0.01, "openshot_version": "3.1.1", "error_rate_unstable": 0.05, "trans_rate_unstable": 0.001, "error_rate_stable": 0.5}
+ main_window:INFO updateStatusChanged
+ main_window:INFO updateStatusChanged
+         app:INFO Process command-line arguments: ['/usr/bin/openshot-qt']
+ main_window:INFO recover_backup
+project_data:INFO Setting default profile to HD 720p 30 fps
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+video_widget:INFO Load: Set video widget display aspect ratio to: 1.7777777910232544
+video_widget:INFO Set video widget pixel aspect ratio to: 1.0
+ main_window:INFO updateStatusChanged
+preview_thread:INFO onModeChanged
+ main_window:INFO foundCurrentVersion: Found the latest version: 3.1.1
+properties_model:INFO Update item: 
+properties_model:INFO updating clip properties model.
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(420, 236)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Track %s');
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "5MC9JCQQX2", "fps": {"num": 30, "den": 1}, "display_ratio": {"num": 16, "den": 9}, "pixel_ratio": {"num": 1, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "import_path": "", "files": [], "duration": 300, "scale": 15, "tick_pixels": 100, "playhead_position": 0, "profile": "HD 720p 30 fps", "layers": [{"id": "L1", "label": "", "number": 1000000, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2000000, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3000000, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4000000, "y": 0, "lock": false}, {"id": "L5", "label": "", "number": 5000000, "y": 0, "lock": false}], "markers": [], "progress": [], "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": {}});
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().setScale(15, 0);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetSnappingMode(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().MovePlayheadToFrame(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetFollow(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Track %s');
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "5MC9JCQQX2", "fps": {"num": 30, "den": 1}, "display_ratio": {"num": 16, "den": 9}, "pixel_ratio": {"num": 1, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "import_path": "", "files": [], "duration": 300, "scale": 15, "tick_pixels": 100, "playhead_position": 0, "profile": "HD 720p 30 fps", "layers": [{"id": "L1", "label": "", "number": 1000000, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2000000, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3000000, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4000000, "y": 0, "lock": false}, {"id": "L5", "label": "", "number": 5000000, "y": 0, "lock": false}], "markers": [], "progress": [], "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": {}});
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().setScale(15, 0);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetSnappingMode(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().MovePlayheadToFrame(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetFollow(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Track %s');
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "5MC9JCQQX2", "fps": {"num": 30, "den": 1}, "display_ratio": {"num": 16, "den": 9}, "pixel_ratio": {"num": 1, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "import_path": "", "files": [], "duration": 300, "scale": 15, "tick_pixels": 100, "playhead_position": 0, "profile": "HD 720p 30 fps", "layers": [{"id": "L1", "label": "", "number": 1000000, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2000000, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3000000, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4000000, "y": 0, "lock": false}, {"id": "L5", "label": "", "number": 5000000, "y": 0, "lock": false}], "markers": [], "progress": [], "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": {}});
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().setScale(15, 0);
+timeline_webview:INFO Qt Found!
+timeline_webview:INFO $scope.Qt = true;
+timeline_webview:INFO SetThumbAddress: http://127.0.0.1:51695/thumbnails/
+timeline_webview:INFO UpdateLayerIndex
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&sc=start&cd=launch-app | (35 bytes)
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&cd=initial-launch-screen | (35 bytes)
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&cd=main-screen | (35 bytes)
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&cd=metrics-opt-in | (35 bytes)
+ main_window:INFO Clear all thumbnails: /home/chachahime0729/.openshot_qt/thumbnail
+ main_window:INFO Clear all animations: /home/chachahime0729/.openshot_qt/blender
+ main_window:INFO Clear all titles: /home/chachahime0729/.openshot_qt/title
+project_data:INFO Setting default profile to HD 720p 30 fps
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+video_widget:INFO Load: Set video widget display aspect ratio to: 1.7777777910232544
+video_widget:INFO Set video widget pixel aspect ratio to: 1.0
+ main_window:INFO updateStatusChanged
+ main_window:INFO updateStatusChanged
+ main_window:INFO updateStatusChanged
+ files_model:INFO updating files model.
+ main_window:INFO New Project created.
+properties_model:INFO Update item: 
+properties_model:INFO updating clip properties model.
+ files_model:INFO updating files model.
+ files_model:INFO updating files model.
+preview_thread:INFO previewFrame: 37
+preview_thread:INFO self.player.Position(): 37
+preview_thread:INFO previewFrame: 51
+preview_thread:INFO self.player.Position(): 51
+preview_thread:INFO previewFrame: 82
+preview_thread:INFO self.player.Position(): 82
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 123
+preview_thread:INFO self.player.Position(): 123
+preview_thread:INFO previewFrame: 127
+preview_thread:INFO self.player.Position(): 127
+preview_thread:INFO previewFrame: 132
+preview_thread:INFO self.player.Position(): 132
+preview_thread:INFO previewFrame: 136
+preview_thread:INFO self.player.Position(): 136
+preview_thread:INFO previewFrame: 140
+preview_thread:INFO self.player.Position(): 140
+preview_thread:INFO previewFrame: 172
+preview_thread:INFO self.player.Position(): 172
+preview_thread:INFO previewFrame: 177
+preview_thread:INFO self.player.Position(): 177
+preview_thread:INFO previewFrame: 190
+preview_thread:INFO self.player.Position(): 190
+preview_thread:INFO previewFrame: 194
+preview_thread:INFO self.player.Position(): 194
+preview_thread:INFO previewFrame: 199
+preview_thread:INFO self.player.Position(): 199
+preview_thread:INFO previewFrame: 222
+preview_thread:INFO self.player.Position(): 222
+preview_thread:INFO previewFrame: 235
+preview_thread:INFO self.player.Position(): 235
+preview_thread:INFO previewFrame: 239
+preview_thread:INFO self.player.Position(): 239
+preview_thread:INFO previewFrame: 244
+preview_thread:INFO self.player.Position(): 244
+preview_thread:INFO previewFrame: 249
+preview_thread:INFO self.player.Position(): 249
+preview_thread:INFO previewFrame: 253
+preview_thread:INFO self.player.Position(): 253
+preview_thread:INFO previewFrame: 262
+preview_thread:INFO self.player.Position(): 262
+preview_thread:INFO previewFrame: 267
+preview_thread:INFO self.player.Position(): 267
+preview_thread:INFO previewFrame: 271
+preview_thread:INFO self.player.Position(): 271
+preview_thread:INFO previewFrame: 276
+preview_thread:INFO self.player.Position(): 276
+preview_thread:INFO previewFrame: 280
+preview_thread:INFO self.player.Position(): 280
+preview_thread:INFO previewFrame: 289
+preview_thread:INFO self.player.Position(): 289
+preview_thread:INFO previewFrame: 294
+preview_thread:INFO self.player.Position(): 294
+preview_thread:INFO previewFrame: 298
+preview_thread:INFO self.player.Position(): 298
+preview_thread:INFO previewFrame: 302
+preview_thread:INFO self.player.Position(): 302
+preview_thread:INFO previewFrame: 316
+preview_thread:INFO self.player.Position(): 316
+preview_thread:INFO previewFrame: 321
+preview_thread:INFO self.player.Position(): 321
+preview_thread:INFO previewFrame: 325
+preview_thread:INFO self.player.Position(): 325
+preview_thread:INFO previewFrame: 330
+preview_thread:INFO self.player.Position(): 330
+preview_thread:INFO previewFrame: 334
+preview_thread:INFO self.player.Position(): 334
+preview_thread:INFO previewFrame: 339
+preview_thread:INFO self.player.Position(): 339
+preview_thread:INFO previewFrame: 343
+preview_thread:INFO self.player.Position(): 343
+preview_thread:INFO previewFrame: 347
+preview_thread:INFO self.player.Position(): 347
+preview_thread:INFO previewFrame: 352
+preview_thread:INFO self.player.Position(): 352
+preview_thread:INFO previewFrame: 357
+preview_thread:INFO self.player.Position(): 357
+preview_thread:INFO previewFrame: 361
+preview_thread:INFO self.player.Position(): 361
+preview_thread:INFO previewFrame: 370
+preview_thread:INFO self.player.Position(): 370
+preview_thread:INFO previewFrame: 384
+preview_thread:INFO self.player.Position(): 384
+preview_thread:INFO previewFrame: 388
+preview_thread:INFO self.player.Position(): 388
+preview_thread:INFO previewFrame: 415
+preview_thread:INFO self.player.Position(): 415
+preview_thread:INFO previewFrame: 424
+preview_thread:INFO self.player.Position(): 424
+preview_thread:INFO previewFrame: 437
+preview_thread:INFO self.player.Position(): 437
+preview_thread:INFO previewFrame: 460
+preview_thread:INFO self.player.Position(): 460
+preview_thread:INFO previewFrame: 465
+preview_thread:INFO self.player.Position(): 465
+preview_thread:INFO previewFrame: 483
+preview_thread:INFO self.player.Position(): 483
+preview_thread:INFO previewFrame: 487
+preview_thread:INFO self.player.Position(): 487
+preview_thread:INFO previewFrame: 496
+preview_thread:INFO self.player.Position(): 496
+preview_thread:INFO previewFrame: 500
+preview_thread:INFO self.player.Position(): 500
+preview_thread:INFO previewFrame: 505
+preview_thread:INFO self.player.Position(): 505
+preview_thread:INFO previewFrame: 510
+preview_thread:INFO self.player.Position(): 510
+preview_thread:INFO previewFrame: 514
+preview_thread:INFO self.player.Position(): 514
+preview_thread:INFO previewFrame: 519
+preview_thread:INFO self.player.Position(): 519
+preview_thread:INFO previewFrame: 523
+preview_thread:INFO self.player.Position(): 523
+preview_thread:INFO previewFrame: 528
+preview_thread:INFO self.player.Position(): 528
+preview_thread:INFO previewFrame: 550
+preview_thread:INFO self.player.Position(): 550
+preview_thread:INFO previewFrame: 532
+preview_thread:INFO self.player.Position(): 532
+preview_thread:INFO previewFrame: 510
+preview_thread:INFO self.player.Position(): 510
+preview_thread:INFO previewFrame: 505
+preview_thread:INFO self.player.Position(): 505
+preview_thread:INFO previewFrame: 478
+preview_thread:INFO self.player.Position(): 478
+preview_thread:INFO previewFrame: 455
+preview_thread:INFO self.player.Position(): 455
+preview_thread:INFO previewFrame: 447
+preview_thread:INFO self.player.Position(): 447
+preview_thread:INFO previewFrame: 420
+preview_thread:INFO self.player.Position(): 420
+preview_thread:INFO previewFrame: 410
+preview_thread:INFO self.player.Position(): 410
+preview_thread:INFO previewFrame: 406
+preview_thread:INFO self.player.Position(): 406
+preview_thread:INFO previewFrame: 402
+preview_thread:INFO self.player.Position(): 402
+preview_thread:INFO previewFrame: 392
+preview_thread:INFO self.player.Position(): 392
+preview_thread:INFO previewFrame: 384
+preview_thread:INFO self.player.Position(): 384
+preview_thread:INFO previewFrame: 379
+preview_thread:INFO self.player.Position(): 379
+preview_thread:INFO previewFrame: 370
+preview_thread:INFO self.player.Position(): 370
+preview_thread:INFO previewFrame: 365
+preview_thread:INFO self.player.Position(): 365
+preview_thread:INFO previewFrame: 361
+preview_thread:INFO self.player.Position(): 361
+preview_thread:INFO previewFrame: 357
+preview_thread:INFO self.player.Position(): 357
+preview_thread:INFO previewFrame: 347
+preview_thread:INFO self.player.Position(): 347
+preview_thread:INFO previewFrame: 339
+preview_thread:INFO self.player.Position(): 339
+preview_thread:INFO previewFrame: 334
+preview_thread:INFO self.player.Position(): 334
+preview_thread:INFO previewFrame: 330
+preview_thread:INFO self.player.Position(): 330
+preview_thread:INFO previewFrame: 325
+preview_thread:INFO self.player.Position(): 325
+preview_thread:INFO previewFrame: 316
+preview_thread:INFO self.player.Position(): 316
+preview_thread:INFO previewFrame: 307
+preview_thread:INFO self.player.Position(): 307
+preview_thread:INFO previewFrame: 302
+preview_thread:INFO self.player.Position(): 302
+preview_thread:INFO previewFrame: 294
+preview_thread:INFO self.player.Position(): 294
+preview_thread:INFO previewFrame: 280
+preview_thread:INFO self.player.Position(): 280
+preview_thread:INFO previewFrame: 276
+preview_thread:INFO self.player.Position(): 276
+preview_thread:INFO previewFrame: 257
+preview_thread:INFO self.player.Position(): 257
+preview_thread:INFO previewFrame: 253
+preview_thread:INFO self.player.Position(): 253
+preview_thread:INFO previewFrame: 249
+preview_thread:INFO self.player.Position(): 249
+preview_thread:INFO previewFrame: 244
+preview_thread:INFO self.player.Position(): 244
+preview_thread:INFO previewFrame: 239
+preview_thread:INFO self.player.Position(): 239
+preview_thread:INFO previewFrame: 235
+preview_thread:INFO self.player.Position(): 235
+preview_thread:INFO previewFrame: 230
+preview_thread:INFO self.player.Position(): 230
+preview_thread:INFO previewFrame: 217
+preview_thread:INFO self.player.Position(): 217
+preview_thread:INFO previewFrame: 213
+preview_thread:INFO self.player.Position(): 213
+preview_thread:INFO previewFrame: 208
+preview_thread:INFO self.player.Position(): 208
+preview_thread:INFO previewFrame: 204
+preview_thread:INFO self.player.Position(): 204
+preview_thread:INFO previewFrame: 199
+preview_thread:INFO self.player.Position(): 199
+preview_thread:INFO previewFrame: 181
+preview_thread:INFO self.player.Position(): 181
+preview_thread:INFO previewFrame: 172
+preview_thread:INFO self.player.Position(): 172
+preview_thread:INFO previewFrame: 163
+preview_thread:INFO self.player.Position(): 163
+preview_thread:INFO previewFrame: 159
+preview_thread:INFO self.player.Position(): 159
+preview_thread:INFO previewFrame: 154
+preview_thread:INFO self.player.Position(): 154
+preview_thread:INFO previewFrame: 150
+preview_thread:INFO self.player.Position(): 150
+preview_thread:INFO previewFrame: 145
+preview_thread:INFO self.player.Position(): 145
+preview_thread:INFO previewFrame: 140
+preview_thread:INFO self.player.Position(): 140
+preview_thread:INFO previewFrame: 132
+preview_thread:INFO self.player.Position(): 132
+preview_thread:INFO previewFrame: 127
+preview_thread:INFO self.player.Position(): 127
+preview_thread:INFO previewFrame: 123
+preview_thread:INFO self.player.Position(): 123
+preview_thread:INFO previewFrame: 118
+preview_thread:INFO self.player.Position(): 118
+preview_thread:INFO previewFrame: 114
+preview_thread:INFO self.player.Position(): 114
+preview_thread:INFO previewFrame: 109
+preview_thread:INFO self.player.Position(): 109
+preview_thread:INFO previewFrame: 104
+preview_thread:INFO self.player.Position(): 104
+preview_thread:INFO previewFrame: 100
+preview_thread:INFO self.player.Position(): 100
+preview_thread:INFO previewFrame: 96
+preview_thread:INFO self.player.Position(): 96
+preview_thread:INFO previewFrame: 91
+preview_thread:INFO self.player.Position(): 91
+preview_thread:INFO previewFrame: 87
+preview_thread:INFO self.player.Position(): 87
+preview_thread:INFO previewFrame: 73
+preview_thread:INFO self.player.Position(): 73
+preview_thread:INFO previewFrame: 69
+preview_thread:INFO self.player.Position(): 69
+preview_thread:INFO previewFrame: 60
+preview_thread:INFO self.player.Position(): 60
+preview_thread:INFO previewFrame: 55
+preview_thread:INFO self.player.Position(): 55
+preview_thread:INFO previewFrame: 37
+preview_thread:INFO self.player.Position(): 37
+preview_thread:INFO previewFrame: 33
+preview_thread:INFO self.player.Position(): 33
+preview_thread:INFO previewFrame: 10
+preview_thread:INFO self.player.Position(): 10
+preview_thread:INFO previewFrame: 1
+preview_thread:INFO self.player.Position(): 1
+ main_window:INFO ---------------- Shutting down -----------------
+preview_thread:INFO onModeChanged
+preview_thread:INFO exiting thread
+   thumbnail:INFO Shutting down thumbnail server: ('127.0.0.1', 51695)
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&sc=end&cd=close-app | (35 bytes)
+         app:INFO             OpenShot's session ended            
+         app:INFO             Sat May 13 21:43:39 2023            
+         app:INFO ================================================

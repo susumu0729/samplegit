@@ -1,0 +1,32 @@
+2023-05-28 20:42:07.235 [info] Started initializing default profile extensions in extensions installation folder. file:///home/chachahime0729/.vscode/extensions
+2023-05-28 20:42:09.149 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/chachahime0729/.vscode/extensions
+2023-05-28 20:42:12.566 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-28 20:54:52.394 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:52.451 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:55.863 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:56.242 [info] Extracted extension to /home/chachahime0729/.vscode/extensions/.e6db2506-3735-438d-a36d-f2b3697b4343: ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:56.261 [info] Renamed to /home/chachahime0729/.vscode/extensions/ms-ceintl.vscode-language-pack-ja-1.78.2023051009
+2023-05-28 20:54:56.276 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:56.295 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:54:56.623 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
+2023-05-28 20:55:23.474 [info] Getting Manifest... shardulm94.trailing-spaces
+2023-05-28 20:55:23.535 [info] Installing extension: shardulm94.trailing-spaces
+2023-05-28 20:55:26.336 [info] Extension signature is verified: shardulm94.trailing-spaces
+2023-05-28 20:55:26.672 [info] Extracted extension to /home/chachahime0729/.vscode/extensions/.9ca5e16a-1fe7-44f2-8f11-7c629fad4f3a: shardulm94.trailing-spaces
+2023-05-28 20:55:26.702 [info] Renamed to /home/chachahime0729/.vscode/extensions/shardulm94.trailing-spaces-0.4.1
+2023-05-28 20:55:26.704 [info] Extracting extension completed. shardulm94.trailing-spaces
+2023-05-28 20:55:26.735 [info] Extension installed successfully: shardulm94.trailing-spaces
+2023-05-28 20:56:04.448 [info] Getting Manifest... oderwat.indent-rainbow
+2023-05-28 20:56:04.499 [info] Installing extension: oderwat.indent-rainbow
+2023-05-28 20:56:07.409 [info] Extension signature is verified: oderwat.indent-rainbow
+2023-05-28 20:56:11.726 [info] Extracted extension to /home/chachahime0729/.vscode/extensions/.a675d180-7c1b-4efe-b7c9-b0398c593199: oderwat.indent-rainbow
+2023-05-28 20:56:12.012 [info] Renamed to /home/chachahime0729/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2023-05-28 20:56:12.023 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-05-28 20:56:12.105 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-05-28 20:56:31.227 [info] Getting Manifest... ms-vsliveshare.vsliveshare
+2023-05-28 20:56:31.258 [info] Installing extension: ms-vsliveshare.vsliveshare
+2023-05-28 20:56:34.811 [info] Extension signature is verified: ms-vsliveshare.vsliveshare
+2023-05-28 20:56:37.182 [info] Extracted extension to /home/chachahime0729/.vscode/extensions/.302caf30-1f6e-43ac-8886-e5d116bee075: ms-vsliveshare.vsliveshare
+2023-05-28 20:56:37.815 [info] Renamed to /home/chachahime0729/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.5864
+2023-05-28 20:56:37.890 [info] Extracting extension completed. ms-vsliveshare.vsliveshare
+2023-05-28 20:56:37.942 [info] Extension installed successfully: ms-vsliveshare.vsliveshare

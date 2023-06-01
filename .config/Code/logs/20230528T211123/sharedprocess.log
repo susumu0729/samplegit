@@ -1,0 +1,11 @@
+2023-05-28 21:11:39.925 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-28 21:11:51.047 [info] Uninstalling extension from the profile: ms-ceintl.vscode-language-pack-ja@1.78.2023051009 vscode-userdata:/home/chachahime0729/.vscode/extensions/extensions.json
+2023-05-28 21:11:51.184 [info] Removing language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:11:51.327 [info] Marked extension as uninstalled ms-ceintl.vscode-language-pack-ja-1.78.2023051009
+2023-05-28 21:11:51.648 [info] Successfully uninstalled extension from the profile ms-ceintl.vscode-language-pack-ja@1.78.2023051009 vscode-userdata:/home/chachahime0729/.vscode/extensions/extensions.json
+2023-05-28 21:11:57.593 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:11:57.643 [info] Installing extension: ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:12:00.044 [info] Extension signature is verified: ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:12:00.055 [info] Removed the extension from uninstalled list: ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:12:00.142 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ja
+2023-05-28 21:12:00.326 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ja
