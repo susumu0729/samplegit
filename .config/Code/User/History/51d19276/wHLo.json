@@ -1,0 +1,8 @@
+{
+    "editor.tabSize": 2,
+    "workbench.startupEditor": "none",
+    "emmet.variables": {
+        "lang": "ja"
+    },
+    "files.autoSave": "onWindowChange"
+}

@@ -3,11 +3,12 @@
     "profileAssociations": {
         "workspaces": {
             "file:///home/chachahime0729/.git": "__default__profile__",
+            "file:///mnt/chromeos/archive/ubuntu-ja-20.04-desktop-amd64.iso/install": "__default__profile__",
+            "file:///home": "__default__profile__",
+            "file:///media": "__default__profile__",
             "file:///home/chachahime0729": "__default__profile__"
         },
-        "emptyWindows": {
-            "1685274119386": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.machineId": "7049c14d3da80292953273a5b9b6c9bc678bcc2a4c19e09616084298cb50934e",
@@ -15,17 +16,10 @@
         "workspaces": [],
         "folders": [
             {
-                "folderUri": "file:///home/chachahime0729/.git"
-            },
-            {
                 "folderUri": "file:///home/chachahime0729"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1685274119386"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -65,8 +59,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "閉じたエディターを再度開く(&&R)",
-                                    "enabled": false
+                                    "label": "閉じたエディターを再度開く(&&R)"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -86,12 +79,92 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///media",
+                                        "path": "/media",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/media"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home",
+                                        "path": "/home",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/home"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/archive/ubuntu-ja-20.04-desktop-amd64.iso/install",
+                                        "path": "/mnt/chromeos/archive/ubuntu-ja-20.04-desktop-amd64.iso/install",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/archive/ubuntu-ja-20.04-desktop-amd64.iso/install"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/chachahime0729/.git",
                                         "path": "/home/chachahime0729/.git",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/.git"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chachahime0729/ventoy-1.0.93/WebUI/index.html",
+                                        "path": "/home/chachahime0729/ventoy-1.0.93/WebUI/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/ventoy-1.0.93/WebUI/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chachahime0729/LayoutParts-Part1/q2/answer/css/style.css",
+                                        "path": "/home/chachahime0729/LayoutParts-Part1/q2/answer/css/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/LayoutParts-Part1/q2/answer/css/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chachahime0729/LayoutParts-Part1/q2/q2/css/style.css",
+                                        "path": "/home/chachahime0729/LayoutParts-Part1/q2/q2/css/style.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/LayoutParts-Part1/q2/q2/css/style.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/chachahime0729/index.html",
+                                        "path": "/home/chachahime0729/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/index.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -152,6 +225,13 @@
                         "submenu": {
                             "items": [
                                 {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "プロファイルのエクスポート (既定)..."
                                 },
@@ -167,7 +247,8 @@
                     },
                     {
                         "id": "workbench.action.toggleAutoSave",
-                        "label": "自動保存(&&U)"
+                        "label": "自動保存(&&U)",
+                        "checked": true
                     },
                     {
                         "id": "submenuitem.MenubarPreferencesMenu",
@@ -216,10 +297,6 @@
                                             }
                                         ]
                                     }
-                                },
-                                {
-                                    "id": "workbench.userDataSync.actions.turnOn",
-                                    "label": "設定の同期をオンにする..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -1669,11 +1746,11 @@
             "folder": "file:///home/chachahime0729",
             "backupPath": "/home/chachahime0729/.config/Code/Backups/a06fd00f2d197c09df80929707e18499",
             "uiState": {
-                "mode": 0,
-                "x": 192,
-                "y": 148,
-                "width": 1536,
-                "height": 784
+                "mode": 1,
+                "x": 384,
+                "y": 44,
+                "width": 768,
+                "height": 776
             }
         },
         "openedWindows": []

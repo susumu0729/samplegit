@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "workbench.startupEditor": "none",
+    "emmet.variables": {
+        "lang": "ja"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 2
+}

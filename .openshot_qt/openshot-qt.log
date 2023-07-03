@@ -369,3 +369,95 @@ preview_thread:INFO exiting thread
          app:INFO             OpenShot's session ended            
          app:INFO             Sat May 13 21:43:39 2023            
          app:INFO ================================================
+         app:INFO ------------------------------------------------
+         app:INFO             Fri Jun 23 19:43:34 2023            
+         app:INFO               Starting new session              
+         app:INFO ------------------------------------------------
+         app:INFO             OpenShot (version 2.5.1)            
+         app:INFO ------------------------------------------------
+         app:INFO openshot-qt version: 2.5.1
+         app:INFO libopenshot version: 0.2.5
+         app:INFO platform: Linux-5.15.108-18910-gab0e1cb584e1-x86_64-with-glibc2.31
+         app:INFO processor: 
+         app:INFO machine: x86_64
+         app:INFO python version: 3.9.2
+         app:INFO qt5 version: 5.15.2
+         app:INFO pyqt5 version: 5.15.2
+     metrics:ERROR Error determining OS version in metrics.py
+    language:INFO Qt Detected Languages: ['en-US']
+    language:INFO LANG Environment Variable: en_US.UTF-8
+    language:INFO LOCALE Environment Variable: 
+    language:INFO OpenShot Preference Language: Default
+project_data:INFO Setting default profile to HD 720p 30 fps
+         app:INFO Setting font to Cantarell
+         app:INFO Setting custom dark theme
+logger_libopenshot:INFO Connecting to libopenshot with debug port: 5556
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&sc=start&cd=launch-app | (35 bytes)
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&sc=start&cd=launch-app | (35 bytes)
+     ui_util:INFO Initializing UI for MainWindow
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&cd=main-screen | (35 bytes)
+files_listview:INFO currentChanged
+files_listview:INFO updateSelection
+ files_model:INFO updating files model.
+transition_model:INFO updating transitions model.
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&cd=main-screen | (35 bytes)
+effects_model:INFO updating effects model.
+properties_model:INFO updating clip properties model.
+transition_model:INFO updating transitions model.
+     version:INFO Found current version: {"error_rate_unstable": 0.05, "trans_rate_unstable": 0.001, "error_rate_stable": 0.25, "trans_rate_stable": 0.01, "openshot_version": "3.1.1"}
+ files_model:INFO updating files model.
+ main_window:INFO InitCacheSettings
+ main_window:INFO cache-mode: CacheMemory
+ main_window:INFO cache-limit-mb: 250
+ main_window:INFO Creating CacheMemory object with 262144000 byte limit
+preview_thread:INFO QThread Start Method Invoked
+preview_thread:INFO initPlayer
+ main_window:INFO Clear all thumbnails: /home/chachahime0729/.openshot_qt/thumbnail
+ main_window:INFO Clear all animations: /home/chachahime0729/.openshot_qt/blender
+ main_window:INFO Clear all titles: /home/chachahime0729/.openshot_qt/title
+ main_window:INFO updateStatusChanged
+ main_window:INFO updateStatusChanged
+         app:INFO Process command-line arguments: ['/usr/bin/openshot-qt']
+ main_window:INFO recover_backup
+project_data:INFO Setting default profile to HD 720p 30 fps
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+video_widget:INFO Load: Set video widget display aspect ratio to: 1.7777777910232544
+video_widget:INFO Set video widget pixel aspect ratio to: 1.0
+ main_window:INFO updateStatusChanged
+ main_window:INFO foundCurrentVersion: Found the latest version: 3.1.1
+preview_thread:INFO onModeChanged
+properties_model:INFO Update item: 
+properties_model:INFO updating clip properties model.
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(292, 164)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Track %s');
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "FSCK894A0T", "fps": {"num": 30, "den": 1}, "display_ratio": {"num": 16, "den": 9}, "pixel_ratio": {"num": 1, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "import_path": "", "files": [], "duration": 300, "scale": 15, "tick_pixels": 100, "playhead_position": 0, "profile": "HD 720p 30 fps", "layers": [{"id": "L1", "label": "", "number": 1000000, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2000000, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3000000, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4000000, "y": 0, "lock": false}, {"id": "L5", "label": "", "number": 5000000, "y": 0, "lock": false}], "markers": [], "progress": [], "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": {}});
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().setScale(15, 0);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetSnappingMode(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().MovePlayheadToFrame(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetFollow(1);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetTrackLabel('Track %s');
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().LoadJson({"type": "load", "key": "", "value": {"id": "FSCK894A0T", "fps": {"num": 30, "den": 1}, "display_ratio": {"num": 16, "den": 9}, "pixel_ratio": {"num": 1, "den": 1}, "width": 1280, "height": 720, "sample_rate": 44100, "channels": 2, "channel_layout": 3, "settings": {}, "clips": [], "effects": [], "export_path": "", "import_path": "", "files": [], "duration": 300, "scale": 15, "tick_pixels": 100, "playhead_position": 0, "profile": "HD 720p 30 fps", "layers": [{"id": "L1", "label": "", "number": 1000000, "y": 0, "lock": false}, {"id": "L2", "label": "", "number": 2000000, "y": 0, "lock": false}, {"id": "L3", "label": "", "number": 3000000, "y": 0, "lock": false}, {"id": "L4", "label": "", "number": 4000000, "y": 0, "lock": false}, {"id": "L5", "label": "", "number": 5000000, "y": 0, "lock": false}], "markers": [], "progress": [], "version": {"openshot-qt": "0.0.0", "libopenshot": "0.0.0"}}, "partial": false, "old_values": {}});
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().setScale(15, 0);
+timeline_webview:WARNING TimelineWebView::eval_js() called before document ready event. Script queued: $('body').scope().SetSnappingMode(1);
+timeline_webview:INFO Qt Found!
+timeline_webview:INFO $scope.Qt = true;
+timeline_webview:INFO SetThumbAddress: http://127.0.0.1:55507/thumbnails/
+timeline_webview:INFO UpdateLayerIndex
+timeline_webview:INFO SortItems
+timeline_webview:INFO UpdateLayerIndex
+    timeline:INFO Adjusting max size of preview image: PyQt5.QtCore.QSize(528, 297)
+preview_thread:INFO refreshFrame
+preview_thread:INFO self.player.Position(): 1
+ main_window:INFO ---------------- Shutting down -----------------
+preview_thread:INFO onModeChanged
+     metrics:INFO Track metric: [200] http://www.google-analytics.com/collect?cid=7e2dd33c-b3f7-42ab-a9be-13fb7f4990fa&v=1&tid=UA-4381101-5&an=OpenShot+Video+Editor&aip=1&aid=org.openshot.openshot-qt&av=2.5.1&ul=en-us&ua=Mozilla%2F5.0+%28X11%3B+Linux+x86_64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F37.0.2062.120+Safari%2F537.36&cd1=0.2.5&cd2=3.9.2&cd3=5.15.2&cd4=5.15.2&cd5=None&t=screenview&sc=end&cd=close-app | (35 bytes)
+preview_thread:INFO exiting thread
+   thumbnail:INFO Shutting down thumbnail server: ('127.0.0.1', 55507)
+         app:INFO             OpenShot's session ended            
+         app:INFO             Fri Jun 23 20:50:49 2023            
+         app:INFO ================================================

@@ -1,0 +1,43 @@
+@charset "utf-8";
+body {
+margin: 0;
+}
+#header {
+  width: 400px;
+  margin: 0 auto;
+}
+.red--box {
+width: 400px;
+height: 100px;
+background: #ff0000;
+}
+#main {
+  width: ;
+}
+#main1 {
+  width: 150px;
+  margin: 0 auto;
+}
+.green--box {
+width: 150px;
+height: 250px;
+background: #00ff1e;
+}
+#main2 {
+  width: 250px;
+  margin: 0 auto;
+}
+.blue--box {
+width: 250px;
+height: 250px;
+background: #3300ff;
+}
+#footer {
+  width: 400px;
+  margin: 0 auto;
+}
+.yellow--box {
+  width: 400px;
+  height: 100px;
+  background: #ffe600;
+}

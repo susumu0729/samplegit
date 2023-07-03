@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.cell--table{
+  width: 100%;
+  table-layout: auto;
+  border-collapse: separate;
+  border-spacing: auto;
+  border: 1px solid #000000;
+  text-align: center;
+}
+tr:nth-child(1) {
+  background: #319c4a;
+}
+th:nth-child(1) {
+  background: #319c4a;
+}
+tr:nth-child(even) {
+  background: #d5ffc7;
+}

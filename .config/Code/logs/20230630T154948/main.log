@@ -1,0 +1,95 @@
+2023-06-30 15:49:50.293 [info] update#setState idle
+2023-06-30 15:50:04.166 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 15:50:20.307 [info] update#setState checking for updates
+2023-06-30 15:50:20.414 [info] update#setState idle
+2023-06-30 17:22:54.628 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 17:22:54.628 [info] update#setState checking for updates
+2023-06-30 17:22:55.931 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-30 17:22:55.946 [info] update#setState idle
+2023-06-30 17:31:04.013 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 17:57:38.900 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 18:14:26.524 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 18:22:54.530 [info] update#setState checking for updates
+2023-06-30 18:22:55.105 [info] update#setState idle
+2023-06-30 19:22:54.904 [info] update#setState checking for updates
+2023-06-30 19:22:55.398 [info] update#setState idle
+2023-06-30 20:28:03.290 [info] update#setState checking for updates
+2023-06-30 20:28:03.659 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-30 20:28:03.670 [info] update#setState idle
+2023-06-30 20:58:29.031 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 21:37:07.145 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 21:37:07.145 [info] update#setState checking for updates
+2023-06-30 21:37:08.247 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-30 21:37:08.248 [info] update#setState idle
+2023-06-30 22:18:59.957 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 22:37:05.791 [info] update#setState checking for updates
+2023-06-30 22:37:06.384 [info] update#setState idle
+2023-06-30 22:56:39.053 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-30 23:37:06.174 [info] update#setState checking for updates
+2023-06-30 23:37:06.672 [info] update#setState idle
+2023-07-01 00:09:41.678 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-01 00:40:13.578 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-01 00:40:13.578 [info] update#setState checking for updates
+2023-07-01 00:40:14.433 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-01 00:40:14.442 [info] update#setState idle
+2023-07-01 01:10:20.035 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-01 23:17:35.585 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-01 23:17:35.586 [info] update#setState checking for updates
+2023-07-01 23:17:37.101 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-01 23:17:37.101 [info] update#setState idle
+2023-07-02 00:17:35.577 [info] update#setState checking for updates
+2023-07-02 00:17:36.139 [info] update#setState idle
+2023-07-02 12:34:10.483 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 12:34:09.629 [info] update#setState checking for updates
+2023-07-02 12:34:10.912 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-02 12:34:10.927 [info] update#setState idle
+2023-07-02 13:29:41.249 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 13:34:08.651 [info] update#setState checking for updates
+2023-07-02 13:34:09.227 [info] update#setState idle
+2023-07-02 13:53:47.649 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 18:51:09.634 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 18:51:09.636 [info] update#setState checking for updates
+2023-07-02 18:51:10.886 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-02 18:51:10.903 [info] update#setState idle
+2023-07-02 19:51:09.625 [info] update#setState checking for updates
+2023-07-02 19:51:09.796 [info] update#setState idle
+2023-07-02 21:54:26.656 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 21:54:26.723 [info] update#setState checking for updates
+2023-07-02 21:54:28.049 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-02 21:54:28.051 [info] update#setState idle
+2023-07-02 22:37:16.562 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 22:56:27.565 [info] update#setState checking for updates
+2023-07-02 22:56:28.288 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-02 22:56:28.289 [info] update#setState idle
+2023-07-02 23:35:10.800 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 23:48:14.353 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-02 23:56:27.093 [info] update#setState checking for updates
+2023-07-02 23:56:27.633 [info] update#setState idle
+2023-07-03 00:38:11.539 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-03 00:49:17.807 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-03 00:56:26.817 [info] update#setState checking for updates
+2023-07-03 00:56:27.317 [info] update#setState idle
+2023-07-03 11:15:04.429 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-03 11:15:04.512 [info] update#setState checking for updates
+2023-07-03 11:15:06.221 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-07-03 11:15:06.224 [info] update#setState idle

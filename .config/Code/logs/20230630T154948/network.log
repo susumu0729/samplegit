@@ -1,0 +1,23 @@
+2023-06-30 16:30:09.582 [error] electron #7: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-06-30 17:22:55.927 [error] electron #9: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-06-30 17:22:55.931 [error] electron #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-06-30 20:28:03.654 [error] electron #39: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-06-30 20:28:03.659 [error] electron #38: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-06-30 21:37:08.247 [error] electron #51: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-01 00:40:14.432 [error] electron #72: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-01 00:40:14.433 [error] electron #71: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-01 01:10:21.257 [error] electron #73: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-01 23:17:37.100 [error] electron #75: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-01 23:17:37.101 [error] electron #74: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-01 23:17:37.128 [error] browser #4: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST XHR failed
+2023-07-02 12:34:10.911 [error] electron #92: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-02 12:34:10.912 [error] electron #91: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-02 18:51:10.881 [error] electron #116: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-02 18:51:10.886 [error] electron #115: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-02 21:54:28.048 [error] electron #139: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-02 21:54:28.049 [error] electron #138: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-02 22:37:17.545 [error] electron #144: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-02 22:56:28.288 [error] electron #148: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED
+2023-07-02 23:35:11.634 [error] electron #150: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-03 11:15:06.220 [error] electron #177: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2023-07-03 11:15:06.221 [error] electron #176: https://update.code.visualstudio.com/api/update/linux-x64/stable/695af097c7bd098fbf017ce3ac85e09bbc5dda06 - error undefined net::ERR_NETWORK_CHANGED

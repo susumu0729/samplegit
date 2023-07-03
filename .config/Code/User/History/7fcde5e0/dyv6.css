@@ -1,0 +1,74 @@
+@charset "utf-8";
+body {
+  width:400px;
+  height:450px;
+  margin: 0;
+}
+.red--box {
+  width: 400px;
+  height: 100px;
+  background: #ff0000;
+}
+.nav{
+  float: right;
+  width: 160px;
+  height: 60px;
+  margin: 20px 20px 0 0;
+  background: #ffffff;
+}
+.purple--box1{
+  float: right;
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+  background: #a9004b;
+}
+.purple--box2{
+  float: right;
+  width: 40px;
+  height: 40px;
+  margin: 10px 0 10px 10px;
+  background: #a9004b;
+}
+.purple--box3{
+  float: right;
+  width: 40px;
+  height: 40px;
+  margin: 10px 0 10px 10px;
+  background: #a9004b;
+}
+.side{
+  float: left;
+}
+.green--box {
+  width: 150px;
+  height: 250px;
+  background: #00ff51;
+}
+.content{
+  float: right;
+  width: 250px;
+  height: 250px;
+}
+.brown--box {
+  width: 250px;
+  height: 250px;
+  background: #8c2727;
+  position: relative;
+}
+.white1--box{
+  width: 150px;
+  height: 45px;
+  margin: 40px 0 0 40px;
+  background: #ffffff;
+}
+.yellow--box{
+  width: 400px;
+  height: 100px;
+  background: #fff700
+}
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}

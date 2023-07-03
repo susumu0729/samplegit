@@ -1,0 +1,4 @@
+2023-06-30 17:35:44.879 [error] [uncaught exception in sharedProcess]: システム エラーが発生しました (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-06-30 17:46:53.436 [error] [uncaught exception in sharedProcess]: システム エラーが発生しました (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)

@@ -1,0 +1,9 @@
+2023-06-28 23:17:11.024 [info] Extension host with pid 7309 started
+2023-06-28 23:17:11.024 [info] Skipping acquiring lock for /home/chachahime0729/.config/Code/User/workspaceStorage/bafe75f4be7cb21d563875e8a0772bd2.
+2023-06-28 23:17:11.463 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-06-28 23:17:12.303 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-06-28 23:17:12.304 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2023-06-28 23:17:12.608 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-06-28 23:17:12.714 [info] ExtensionService#_doActivateExtension aaravb.chrome-extension-developer-tools, startup: true, activationEvent: 'workspaceContains:**/manifest.json'
+2023-06-28 23:17:13.296 [info] Extension host terminating: renderer closed the MessagePort
+2023-06-28 23:17:13.303 [info] Extension host with pid 7309 exiting with code 0

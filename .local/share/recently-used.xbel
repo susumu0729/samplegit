@@ -3,12 +3,82 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/chachahime0729" added="2023-05-31T08:28:03.125553Z" modified="2023-05-31T08:28:03.125558Z" visited="2023-05-31T08:28:03.125554Z">
+  <bookmark href="file:///home/chachahime0729" added="2023-05-31T08:28:03.125553Z" modified="2023-06-20T13:31:09.218117Z" visited="2023-05-31T08:28:03.125554Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-05-31T08:28:03.125555Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-20T13:31:09.218104Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/index.html" added="2023-06-05T00:42:14.237945Z" modified="2023-06-05T01:15:31.547450Z" visited="2023-06-05T00:42:14.237947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-05T01:15:31.547447Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/nihongo.html" added="2023-06-05T11:07:46.295140Z" modified="2023-06-05T11:07:46.295148Z" visited="2023-06-05T11:07:46.295141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-05T11:07:46.295144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/3-1%20subject.html" added="2023-06-06T03:15:47.813162Z" modified="2023-06-06T03:15:47.813169Z" visited="2023-06-06T03:15:47.813163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-06T03:15:47.813166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/html-practice" added="2023-06-06T04:12:18.688550Z" modified="2023-06-06T04:12:18.688557Z" visited="2023-06-06T04:12:18.688551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-06T04:12:18.688553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home" added="2023-06-20T13:29:24.715113Z" modified="2023-06-20T13:29:24.715119Z" visited="2023-06-20T13:29:24.715114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-06-20T13:29:24.715116Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/ubuntu-ja-20.04-desktop-amd64.iso" added="2023-06-27T05:35:29.239820Z" modified="2023-06-27T08:18:15.117612Z" visited="2023-06-27T05:35:29.239821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2023-06-27T08:18:15.117609Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/chachahime0729/ubuntu-22.04.2-desktop-amd64.iso" added="2023-06-27T08:53:30.232812Z" modified="2023-06-28T13:37:21.799980Z" visited="2023-06-27T08:53:30.232812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="balena-etcher.bin" exec="&apos;balena-etcher.bin %u&apos;" modified="2023-06-28T13:37:21.799976Z" count="5"/>
         </bookmark:applications>
       </metadata>
     </info>

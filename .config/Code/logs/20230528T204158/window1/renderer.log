@@ -1,8 +1,0 @@
-2023-05-28 20:42:03.108 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-2023-05-28 20:42:05.465 [info] Started initializing default profile extensions in extensions installation folder. file:///home/chachahime0729/.vscode/extensions
-2023-05-28 20:42:08.726 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/chachahime0729/.vscode/extensions
-2023-05-28 20:42:13.901 [info] [perf] Render performance baseline is 111ms
-2023-05-28 20:53:40.731 [error] Error: XHR failed
-    at C.onerror (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:72:1399)
-2023-05-28 20:56:39.131 [error] [Extension Host] (node:1702) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `exe --trace-deprecation ...` to show where the warning was created)

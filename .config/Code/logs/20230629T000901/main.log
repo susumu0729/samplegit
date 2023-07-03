@@ -1,0 +1,10 @@
+2023-06-29 00:09:01.849 [info] update#setState idle
+2023-06-29 00:09:09.502 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-29 00:09:28.125 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-29 00:09:31.852 [info] update#setState checking for updates
+2023-06-29 00:09:31.955 [info] update#setState idle
+2023-06-29 01:09:31.868 [info] update#setState checking for updates
+2023-06-29 01:09:33.415 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-29 01:09:33.440 [info] update#setState idle

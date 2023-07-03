@@ -1,0 +1,84 @@
+@charset "UTF-8";
+/* 回答はここから */
+/* text-alignを使って左右中央寄せ */
+body{
+  margin: 0;
+}
+.white--box1{
+  width: 200px;
+  height: 80px;
+  background: #fff;
+}
+.blue--box1{
+  float: left;
+  width: 90px;
+  height: 40px;
+  margin: 20px 55px;
+  background: #a4b3e9;
+}
+.text-align{
+  font-size: 16px;
+  text-align: center;
+  padding: 10px 0;
+}
+/* marginを使って左右中央寄せ */
+.white--box2{
+  width: 200px;
+  height: 80px;
+  background: #fff;
+}
+.blue--box2{
+  float: left;
+  width: 90px;
+  height: 40px;
+  margin: 20px 55px;
+  background: #a4b3e9;
+}
+.margin{
+  display: inline-block;
+  width: 90px;
+  text-align: center;
+  font-size: 16px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+/* tableを使って上下左右中央寄せ */
+.table1{
+  display: table;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.table2{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+.table3{
+  font-size: 16px;
+  padding: 10px;
+  width: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #fff
+}
+/* flexを使って上下左右中央寄せ */
+.flex1{
+  width: 100%;
+  height: 100%;
+}
+.box2{
+  width: 45px;
+  background: #fff;
+}
+.flex2{
+  font-size: 16px;
+  padding: 10px;
+}
+.flex1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* positionを使って上下左右中央寄せ */
+.conteiner

@@ -3,3 +3,5 @@
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 www.postgresql.org	0	0	1683983653	31536000
 pkg.jenkins.io	0	0	1683982973	300
+dl.winehq.org	0	0	1687850059	31536000
+github.com	0	1	1687355577	31536000

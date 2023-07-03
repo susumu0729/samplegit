@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* 回答はここから */
+.cardlist{
+  display: flex;
+}
+.card1{
+  width: 200px;
+  padding 10px;
+  
+}

@@ -1,0 +1,26 @@
+2023-06-28 19:01:17.613 [info] update#setState idle
+2023-06-28 19:01:25.349 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-28 19:01:41.041 [warning] [UtilityProcessWorker]: createWorker() found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-06-28 19:01:41.060 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-28 19:01:41.075 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1763]: crashed with code 15 and reason 'killed'
+2023-06-28 19:01:47.615 [info] update#setState checking for updates
+2023-06-28 19:01:47.735 [info] update#setState idle
+2023-06-28 20:01:47.186 [info] update#setState checking for updates
+2023-06-28 20:01:47.419 [info] update#setState idle
+2023-06-28 21:02:29.619 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-28 21:02:29.631 [info] update#setState checking for updates
+2023-06-28 21:02:31.791 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-28 21:02:31.801 [info] update#setState idle
+2023-06-28 21:11:26.925 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-28 21:54:03.504 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-28 22:09:05.545 [info] update#setState checking for updates
+2023-06-28 22:09:06.843 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-06-28 22:09:06.844 [info] update#setState idle
+2023-06-28 22:32:55.054 [warning] No ptyHost heartbeat after 6 seconds
+2023-06-28 23:06:25.623 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-06-28 23:06:25.641 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 1902]: crashed with code 15 and reason 'killed'
+2023-06-28 23:06:25.677 [info] Extension host with pid 1796 exited with code: 0, signal: unknown.
